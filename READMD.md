@@ -1,0 +1,1 @@
+implement JavaScript Promises A+

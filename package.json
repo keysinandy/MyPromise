@@ -1,0 +1,17 @@
+{
+  "name": "promix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc MyPromise.ts && promises-aplus-tests ./myPromise.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "promises-aplus-tests": "^2.1.2",
+    "typescript": "^5.0.4"
+  }
+}
